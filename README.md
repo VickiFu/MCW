@@ -1,5 +1,5 @@
 # Microsoft Cloud Workshop (MCW)
-This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.
+This is the top level repository for the Microsoft Cloud Workshop (MCW) project. Each workshop is maintained in its own repository.  Issues and activity for each individal workshop should take place in those repos.  This repository contains the Wiki, captures the overall process to create and maintain MCW content, and top level issues that are not specific to individual workshops.  
 
 ## Getting started (how to effectively deliver a cloud workshop)
 - [Microsoft FTE, please access trainer resources here](https://microsoft.sharepoint.com/sites/infopedia_g01/pages/cards/cloud-workshop-announcement.aspx)
